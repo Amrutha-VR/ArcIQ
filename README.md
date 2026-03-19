@@ -100,8 +100,8 @@ This keeps API keys secure and lets us clean up the AI response before sending i
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jarvis-quiz.git
-cd jarvis-quiz
+git clone https://github.com/YOUR_USERNAME/ArcIQ.git
+cd Quizzzzz
 ```
 
 ### 2. Install dependencies
