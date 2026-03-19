@@ -20,19 +20,10 @@ The basic loop is: create a quiz → answer questions with a timer → see your 
 
 Beyond that there's a floating JARVIS chatbot that knows what topic you're quizzing on and gives hints without spoiling answers, a dashboard with score trend charts, a badge wallet with 10 achievements, PDF export, and Google OAuth alongside email login.
 
----
 
-## Screenshots
 
-> Add your own screenshots here. Recommended: home page, quiz creation form, question interface, results page, dashboard, badge wallet.
 
-```md
-![Home](screenshots/home.png)
-![Quiz](screenshots/quiz.png)
-![Results](screenshots/results.png)
-![Dashboard](screenshots/dashboard.png)
-![Wallet](screenshots/wallet.png)
-```
+
 
 ---
 
