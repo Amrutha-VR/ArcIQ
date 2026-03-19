@@ -117,7 +117,7 @@ You'll need Node 20+, a Supabase project, and a Hugging Face account. All free.
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/arc-iq.git
+git clone https://github.com/Amrutha-VR/arc-iq.git
 cd arc-iq
 npm install
 ```
@@ -236,7 +236,7 @@ Open [http://localhost:3000](http://localhost:3000).
 git init
 git add .
 git commit -m "initial commit"
-git remote add origin https://github.com/YOUR_USERNAME/arc-iq.git
+git remote add origin https://github.com/Amrutha-VR/arc-iq.git
 git branch -M main
 git push -u origin main
 ```
